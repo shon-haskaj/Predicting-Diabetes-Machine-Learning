@@ -163,12 +163,6 @@ jupyter notebook
 - `Arxiv___PRIME_AI_Style_Template.pdf` report-style PDF.
 - `Conference-LaTeX-template_10-17-19` LaTeX template folder.
 
-## Video
-https://youtu.be/nLAxVQUpGSM
-
-## Report
-Open `Arxiv___PRIME_AI_Style_Template.pdf` for the paper-style writeup.
-
 ## Notes
 - Results and metrics are documented inside each notebook.
 - Raw vs undersampled experiments are separated by notebook for clarity.
